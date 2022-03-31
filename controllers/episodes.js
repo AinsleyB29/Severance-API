@@ -35,7 +35,7 @@ export const createEpisode = async (req, res) => {
   }
 };
 
-export const updatedEpisode = async (req, res) => {
+export const updateEpisode = async (req, res) => {
   try {
     const { id } = req.params;
     const episode = await Episode.findByIdAndUpdate(id, req.body);
