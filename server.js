@@ -1,4 +1,4 @@
-import db from '.db/connection.js';
+import db from './db/connection.js';
 import routes from './routes/index.js';
 
 import express from 'express';
@@ -17,7 +17,7 @@ app.use('/api', routes);
 
 db.on('connected', () => {
   console.clear();
-  console.log(chalk.blue('Connectd to MongoDB!'));
+  console.log(chalk.blue('Connected to MongoDB!'));
   app.listen(PORT, () => {
     process.env.NODE_ENV === 'production'
       ? console.log(`Express server running in production on port ${PORT}\n\n`)
