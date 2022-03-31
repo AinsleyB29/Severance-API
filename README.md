@@ -28,7 +28,7 @@ npm install express mongoose
 
 ## Seed the data
 
-`node seed.js`
+`npm run db:seed`
 
 ## Connect to server
 
