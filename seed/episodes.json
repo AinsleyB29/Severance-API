@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "name": "Good News About Hell",
     "season": 1,
     "episode": 1,
@@ -30,12 +29,11 @@
     },
     "director": "Ben Stiller",
     "writers": ["Dan Erickson", "Anna Ouyang Moench"],
-    "synopsis": "<p>Mark is promoted to lead a team who've had their memories surgically divided between their work and personal lives.</p>",
+    "synopsis": "Mark is promoted to lead a team who've had their memories surgically divided between their work and personal lives.",
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
     "certificate": "TV-MA"
   },
   {
-    "id": 2,
     "name": "Half Loop",
     "season": 1,
     "episode": 2,
@@ -63,12 +61,11 @@
     },
     "director": "Ben Stiller",
     "writers": ["Dan Erickson", "Anna Ouyang Moench"],
-    "synopsis": "<p>The team train new hire Helly on macrodata refinement. Mark takes a day off to meet with a mysterious former colleague.</p>",
+    "synopsis": "The team train new hire Helly on macrodata refinement. Mark takes a day off to meet with a mysterious former colleague.",
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
     "certificate": "TV-MA"
   },
   {
-    "id": 3,
     "name": "In Perpetuity",
     "season": 1,
     "episode": 3,
@@ -98,13 +95,12 @@
     },
     "director": "Ben Stiller",
     "writers": ["Andrew Colville", "Dan Erickson", "Anna Ouyang Moench"],
-    "synopsis": "<p>Mark takes the team on a field trip, but Helly continues to rebel. A deteriorating Petey struggles to tell Mark about Lumon's misdeeds.</p>",
+    "synopsis": "Mark takes the team on a field trip, but Helly continues to rebel. A deteriorating Petey struggles to tell Mark about Lumon's misdeeds.",
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
     "certificate": "TV-MA"
   },
 
   {
-    "id": 4,
     "name": "The You You Are",
     "season": 1,
     "episode": 4,
@@ -134,12 +130,11 @@
     },
     "director": "Aoife McArdle",
     "writers": ["Kari Drake", "Dan Erickson", "Anna Ouyang Moench"],
-    "synopsis": "<p>Irving finds an intriguing book at work. Helly aggressively pursues a meeting with her Outie. Mark attends a funeral with Ms. Selvig.</p>",
+    "synopsis": "Irving finds an intriguing book at work. Helly aggressively pursues a meeting with her Outie. Mark attends a funeral with Ms. Selvig.",
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
     "certificate": "TV-MA"
   },
   {
-    "id": 5,
     "name": "The Grim Barbarity of Optics and Design",
     "season": 1,
     "episode": 5,
@@ -169,12 +164,11 @@
     },
     "director": "Aoife McArdle",
     "writers": ["Anna Ouyang Moench", "Dan Erickson"],
-    "synopsis": "<p>Irving and Dylan confront Burt about his lies. Mark and Helly discover a strange new department.</p>",
+    "synopsis": "Irving and Dylan confront Burt about his lies. Mark and Helly discover a strange new department.",
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
     "certificate": "TV-MA"
   },
   {
-    "id": 6,
     "name": "Hide and Seek",
     "season": 1,
     "episode": 6,
@@ -204,15 +198,14 @@
     },
     "director": "Aoife McArdle",
     "writers": ["Amanda Overton", "Dan Erickson", "Anna Ouyang Moench"],
-    "synopsis": "<p>The team angers Cobel by forming an alliance.</p>",
+    "synopsis": "The team angers Cobel by forming an alliance.",
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
     "certificate": "TV-MA"
   },
   {
-    "id": 7,
     "name": "Defiant Jazz",
     "season": 1,
-    "episode": 9,
+    "episode": 7,
     "airdate": "2022-03-25",
     "platform": "Apple TV+",
     "runtime": 49,
@@ -239,12 +232,11 @@
     },
     "director": "Ben Stiller",
     "writers": ["Helen Leigh", "Dan Erickson", "Anna Ouyang Moench"],
-    "synopsis": "<p>Mark and the team encounter new security measures from Cobel.</p>",
+    "synopsis": "Mark and the team encounter new security measures from Cobel.",
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
     "certificate": "TV-MA"
   },
   {
-    "id": 8,
     "name": "What's for Dinner?",
     "season": 1,
     "episode": 8,
@@ -271,7 +263,7 @@
     },
     "director": "Ben Stiller",
     "writers": ["Dan Erickson"],
-    "synopsis": "<p>The team prepares a plan. Mark attends Devon and Ricken's party.</p>",
+    "synopsis": "The team prepares a plan. Mark attends Devon and Ricken's party.",
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
     "certificate": "TV-MA"
   }

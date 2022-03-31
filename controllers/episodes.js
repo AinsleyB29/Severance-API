@@ -49,7 +49,7 @@ export const updatedEpisode = async (req, res) => {
 export const deleteEpisode = async (req, res) => {
   try {
     const { id } = req.params;
-    const deleted = await Episode.findByIdAndUpdate(id);
+    const deleted = await Episode.findByIdAndRemove(id);
     if (deleted) {
       return res.status(200).send('Episode deleted!');
     }

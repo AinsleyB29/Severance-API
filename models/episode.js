@@ -2,7 +2,6 @@ import mongoose from 'mongoose';
 const Schema = mongoose.Schema;
 
 let Episode = new Schema({
-  _id: { type: Number },
   name: { type: String, required: true },
   season: { type: Number, required: true },
   episode: { type: Number, required: true },
