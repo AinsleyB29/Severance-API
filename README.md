@@ -36,14 +36,14 @@ npm install express mongoose
 
 ## API Endpoints
 
-| Method | Endpoint     | Description             |
-| ------ | ------------ | ----------------------- |
-| GET    | /api         | This is the API root.   |
-| GET    | /episodes    | Retrieves all episodes. |
-| GET    | /episodes:id | Retrieves one episode.  |
-| POST   | /episodes    | Creates one episode.    |
-| PUT    | /episodes:id | Updates one episode.    |
-| DELETE | /episodes:id | Deletes one episode.    |
+| Method | Endpoint         | Description             |
+| ------ | ---------------- | ----------------------- |
+| GET    | /api             | This is the API root.   |
+| GET    | /api/episodes    | Retrieves all episodes. |
+| GET    | /api/episodes:id | Retrieves one episode.  |
+| POST   | /api/episodes    | Creates one episode.    |
+| PUT    | /api/episodes:id | Updates one episode.    |
+| DELETE | /api/episodes:id | Deletes one episode.    |
 
 ## Contact
 
