@@ -45,6 +45,9 @@ npm install express mongoose
 | PUT    | /api/episodes:id | Updates one episode.    |
 | DELETE | /api/episodes:id | Deletes one episode.    |
 
+## Deployed Link
+`https://severance-api.herokuapp.com/`
+
 ## Contact
 
 If you'd like to learn more, collaborate, or have suggestions for projects I can create feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ainsleybrundage/).
