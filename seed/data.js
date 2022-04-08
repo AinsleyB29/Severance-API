@@ -1,6 +1,6 @@
 import db from '../db/connection.js';
 import Episode from '../models/episode.js';
-import episodes from './episodes.json';
+import episodes from './episodes.json' assert { type: 'json' };
 
 const insertData = async () => {
   // reset database
