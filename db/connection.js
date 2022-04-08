@@ -3,7 +3,8 @@ import chalk from 'chalk';
 
 // Setting up connection for MongoDB
 const MONGODB_URI =
-  process.env.PROD_MONGODB || 'mongodb://localhost:27017/severance-show';
+  process.env.PROD_MONGODB ||
+  'mongodb+srv://AinsleyB29:<thegeneralisme>@severance.azsl3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 
 // This is for Model.findByIdAndUpdate so that we can see what we updated.
 mongoose.set('returnOriginal', false);
