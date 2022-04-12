@@ -9,6 +9,8 @@ let Episode = new Schema({
   platform: { type: String, required: true },
   runtime: { type: Number },
   rating: { type: Number },
+  imdb: { type: String },
+  'imdb-image': { type: String },
   cast: { type: Object, required: true },
   director: { type: String, required: true },
   writers: { type: Array, required: true },
