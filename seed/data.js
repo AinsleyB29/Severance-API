@@ -3,13 +3,13 @@ import Episode from '../models/episode.js';
 import episodes from './episodes.json' assert { type: 'json' };
 const insertData = async () => {
   // reset database
-  db.dropDatabase();
+  await Episode.deleteMany({});
 
   // insert episodes into database
   await Episode.insertMany(episodes);
 
   // close db connection
-  db.close();
+  await db.close();
 };
 
 insertData();
