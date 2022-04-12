@@ -6,6 +6,8 @@
     "airdate": "2022-02-18",
     "platform": "Apple TV+",
     "runtime": 57,
+    "imdb": "https://www.imdb.com/title/tt11650328/?ref_=tt_ep_pr",
+    "imdb-image": "https://www.imdb.com/title/tt11650328/?ref_=tt_ep_pr",
     "rating": 8.0,
     "cast": {
       "Adam Scott": "Mark",
@@ -41,6 +43,8 @@
     "platform": "Apple TV+",
     "runtime": 53,
     "rating": 8.0,
+    "imdb": "https://www.imdb.com/title/tt13393872/?ref_=tt_ep_pr",
+    "imdb-image": "https://www.imdb.com/title/tt13393872/mediaviewer/rm2611865089/?ref_=tt_ov_i",
     "cast": {
       "Adam Scott": "Mark",
       "Zach Cherry": "Dylan",
@@ -73,6 +77,8 @@
     "platform": "Apple TV+",
     "runtime": 56,
     "rating": 7.7,
+    "imdb": "https://www.imdb.com/title/tt13399816/?ref_=tt_ep_nx",
+    "imdb-image": "https://www.imdb.com/title/tt13399816/mediaviewer/rm3879068673/?ref_=tt_ov_i",
     "cast": {
       "Adam Scott": "Mark",
       "Zach Cherry": "Dylan",
@@ -108,6 +114,8 @@
     "platform": "Apple TV+",
     "runtime": 46,
     "rating": 8.3,
+    "imdb": "https://www.imdb.com/title/tt13411248/?ref_=tt_ep_nx",
+    "imdb-image": "https://www.imdb.com/title/tt13411248/mediaviewer/rm2471748865/?ref_=tt_ov_i",
     "cast": {
       "Adam Scott": "Mark",
       "Zach Cherry": "Dylan",
@@ -142,6 +150,8 @@
     "platform": "Apple TV+",
     "runtime": 43,
     "rating": 7.7,
+    "imdb": "https://www.imdb.com/title/tt13424090/?ref_=tt_ep_nx",
+    "imdb-image": "https://www.imdb.com/title/tt13424090/mediaviewer/rm2524256769/?ref_=tt_ov_i",
     "cast": {
       "Adam Scott": "Mark",
       "Zach Cherry": "Dylan",
@@ -176,6 +186,8 @@
     "platform": "Apple TV+",
     "runtime": 40,
     "rating": 8.0,
+    "imdb": "https://www.imdb.com/title/tt13424092/?ref_=tt_ep_nx",
+    "imdb-image": "https://www.imdb.com/title/tt13424092/mediaviewer/rm3818724097/?ref_=tt_ov_i",
     "cast": {
       "Adam Scott": "Mark",
       "Zach Cherry": "Dylan",
@@ -210,6 +222,8 @@
     "platform": "Apple TV+",
     "runtime": 49,
     "rating": 9.0,
+    "imdb": "https://www.imdb.com/title/tt13424094/?ref_=tt_ep_nx",
+    "imdb-image": "https://www.imdb.com/title/tt13424094/mediaviewer/rm2983139585/?ref_=tt_ov_i",
     "cast": {
       "Adam Scott": "Mark",
       "Zach Cherry": "Dylan",
@@ -244,6 +258,8 @@
     "platform": "Apple TV+",
     "runtime": 46,
     "rating": 9.0,
+    "imdb": "https://www.imdb.com/title/tt13424096/?ref_=tt_ep_pr",
+    "imdb-image": "https://www.imdb.com/title/tt13424096/mediaviewer/rm2077038849/?ref_=tt_ov_i",
     "cast": {
       "Adam Scott": "Mark",
       "Zach Cherry": "Dylan",
@@ -264,6 +280,42 @@
     "director": "Ben Stiller",
     "writers": ["Dan Erickson"],
     "synopsis": "The team prepares a plan. Mark attends Devon and Ricken's party.",
+    "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
+    "certificate": "TV-MA"
+  },
+  {
+    "name": "The We We Are",
+    "season": 1,
+    "episode": 9,
+    "airdate": "2022-04-08",
+    "platform": "Apple TV+",
+    "runtime": 40,
+    "rating": 9.8,
+    "imdb": "https://www.imdb.com/title/tt13424098/?ref_=tt_ep_pr",
+    "imdb-image": "https://www.imdb.com/title/tt13424098/mediaviewer/rm3219922433/?ref_=tt_ov_i",
+    "cast": {
+      "Adam Scott": "Mark",
+      "Zach Cherry": "Dylan",
+      "Britt Lower": "Helly",
+      "Tramell Tillman": "Milchick",
+      "Jen Tullock": "Devon",
+      "Dichen Lachman": "Ms. Casey",
+      "Michael Chernus": "Ricken",
+      "John Turturro": "Irving",
+      "Christopher Walken": "Burt",
+      "Patricia Arquette": "Harmony Cobel",
+      "Sydney Cole Alexander": "Natalie",
+      "Nora Dale": "Gabby Arteta",
+      "Michael Siberry": "James Eagan",
+      "Annie McNamara": "Danise",
+      "Grace Rex": "Rebeck",
+      "Donald Webber Jr": "Patton",
+      "Ethan Flower": "Angelo Arteta",
+      "Marc Gellar": "Kier Eagan"
+    },
+    "director": "Ben Stiller",
+    "writers": ["Dan Erickson"],
+    "synopsis": "The team discovers troubling revelations.",
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
     "certificate": "TV-MA"
   }
