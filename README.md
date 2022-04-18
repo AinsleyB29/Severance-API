@@ -46,7 +46,7 @@ npm install express mongoose
 | DELETE | /api/episodes:id | Deletes one episode.    |
 
 ## Deployed Link
-`https://severance-api.herokuapp.com/`
+`https://severance-api.herokuapp.com/api`
 
 ## Contact
 
