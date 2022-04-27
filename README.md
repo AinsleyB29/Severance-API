@@ -38,12 +38,12 @@ npm install express mongoose
 
 | Method | Endpoint         | Description             |
 | ------ | ---------------- | ----------------------- |
-| GET    | /api             | This is the API root.   |
-| GET    | /api/episodes    | Retrieves all episodes. |
-| GET    | /api/episodes:id | Retrieves one episode.  |
-| POST   | /api/episodes    | Creates one episode.    |
-| PUT    | /api/episodes:id | Updates one episode.    |
-| DELETE | /api/episodes:id | Deletes one episode.    |
+| `GET`    | /api             | This is the API root.   |
+| `GET`    | /api/episodes    | Retrieves all episodes. |
+| `GET`    | /api/episodes:id | Retrieves one episode.  |
+| `POST`   | /api/episodes    | Creates one episode.    |
+| `PUT`    | /api/episodes:id | Updates one episode.    |
+| `DELETE` | /api/episodes:id | Deletes one episode.    |
 
 ## Deployed Link
 `https://severance-api.herokuapp.com/api`
